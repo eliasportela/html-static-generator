@@ -15,7 +15,7 @@
   "author": "Elias Portela",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "bootstrap": "^4.4.1",
